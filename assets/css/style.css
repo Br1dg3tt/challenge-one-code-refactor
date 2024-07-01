@@ -71,7 +71,7 @@ section.content {
     margin-left: 20px;
 }
 
-section.content article.summary h2{
+section.content article.summary {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -132,6 +132,6 @@ footer {
     text-align: center;
 }
 
-footer h4 {
+footer h2 {
     font-size: 20px;
 }
