@@ -54,8 +54,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* Changed div class name to top-image to make it easier to identify */
-div.top-image img{
+/* Changed div class to figure element */
+figure img{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -71,7 +71,7 @@ section.content {
     margin-left: 20px;
 }
 
-section.content article.summary {
+section.content article.summary h2{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -132,6 +132,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
