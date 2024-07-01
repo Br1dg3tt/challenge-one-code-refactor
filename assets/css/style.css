@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Placed a and p elements at the top */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -16,6 +18,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* Changed header class to header element by removing . */
 
 header {
     padding: 20px;
@@ -50,6 +54,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Changed div class name to top-image to make it easier to identify */
 div.top-image img{
     height: 800px;
     width: 100%;
@@ -59,6 +64,7 @@ div.top-image img{
     background-position: center;
 }
 
+/* Changed div class to a section and article named content and summary */
 section.content {
     width: 75%;
     display: inline-block;
@@ -88,6 +94,8 @@ section.content article.summary img.float-right {
     margin-left: 25px;
 }
 
+/* Changed div class to aside element and consolidated repetitive code */
+
 aside.benefits {
     margin-right: 20px;
     padding: 20px;
@@ -114,6 +122,8 @@ aside.benefits article.single-benefit img {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* changed div class to footer element */
 
 footer {
     padding: 30px;
