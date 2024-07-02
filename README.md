@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Unfinished/add image
+The website allow graders to see changes made by me to the html and css code provided for the assignment, as well as show the website was launched correctly and remains the same as the original layout.  The github repository allows graders to see that git commands were used periodically to push gode up from a remote repository to a github repository, and also shows that a readme markdown file and a license were added to the repository using github.
 
 ## Credits
 
